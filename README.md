@@ -1,5 +1,7 @@
 # Hi, I'm Pratik!
-I'm a 2nd year BSc Computer Science student at University College London (UCL). I'm interested in cybersecurity, automation & back-end engineering. 
+I'm a 2nd year BSc Computer Science student at University College London (UCL).
+
+I'm interested in cybersecurity, automation & back-end engineering. 
 
 ## Reach me
 Email: pratik.harani@gmail.com
