@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Pratik!
+I'm a 2nd year BSc Computer Science student at University College London (UCL). I'm interested in cybersecurity, automation & back-end engineering. 
+
+## Reach me
+Email: pratik.harani@gmail.com
+LinkedIn: https://www.linkedin.com/in/pratik-harani/
 
 <!--
 **Pratik-Harani/Pratik-Harani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
